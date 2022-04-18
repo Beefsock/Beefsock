@@ -1,4 +1,5 @@
-- 🐄 Yo I’m @Beefsock
+Yo I’m @Beefsock
+
 - 💻 Game developer
 - 🌎 Web Developer
 - 🐝 Beekeeper
