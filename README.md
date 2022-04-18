@@ -5,7 +5,7 @@ Yo I’m @Beefsock
 - 🐝 Beekeeper
 - 🌵 Gardener
 - 🍕 Pizza maker
-- 🐔 Itch https://beefsock.itch.io
+- 🐔 https://beefsock.itch.io
 
 <!---
 Beefsock/Beefsock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
